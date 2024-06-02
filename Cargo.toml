@@ -2,5 +2,6 @@
 name = "same_type"
 version = "0.1.0"
 edition = "2021"
+description = "A crate that expose a trait for enforcing that two types are the same"
 
 [dependencies]
